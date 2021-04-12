@@ -39,6 +39,12 @@
 
       command prompt box is used to type the command to be executed and also it shows the text format of given voice input.
       
+**Message prompt
+
+      message prompt box shows the status of the given input.
+      
+      
+      
 
       
       
