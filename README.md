@@ -9,7 +9,7 @@
 ## config button:
       
       config button is used to config the tools such as voice,theme,colour
-      you click on any of these buttons and select any of the required options.
+      you can click on any of these buttons and select any of the required options.
       
 ## Help button:
       
