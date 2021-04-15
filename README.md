@@ -61,7 +61,32 @@
       users cannot able to write the text inside message prompt.
       It is for read only purpose.
       
-##
+## Text section
+
+      The text section shows the message about the path of the user given command.
+      It is useful in acessing the multiple files in same time.
+      It is used to track the process of the command.
+      
+## Weather forcating
+
+      It is the feature which allows the user to know about the current weather in the particular city.
+      It provides the information about temperature,humidity,moisture level ,etc..,
+      
+## News feed
+
+      This feature allows the user to know about the current news feed.
+      whenever the command news feed is executed it opens the browser and shows the top news of the day
+      
+## Quick search
+
+      This feature allows the user to search the things in internet.
+      whenever this command executed it opens the web browser and search for the given query and then top results are shown
+      
+## future extension
+
+      The Natural Language Processing (NLP) will be integerated with program
+      
+      
       
       
       
